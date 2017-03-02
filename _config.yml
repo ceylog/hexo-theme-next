@@ -41,6 +41,7 @@ menu:
   #about: /about
   archives: /archives
   tags: /tags
+  categories: /categories
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -233,6 +234,10 @@ wechat_subscriber:
   enabled: true
   qcode: /images/wechat_mp.jpg
   description: 欢迎您扫一扫上面的微信公众号，订阅我公众平台！
+
+
+reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+wechatpay: /images/wx_pay.png
 
 
 
