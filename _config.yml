@@ -238,7 +238,9 @@ wechat_subscriber:
 reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
 wechatpay: /images/wx_pay.png
 
-
+# Local search
+local_search:
+  enable: true
 
 # ---------------------------------------------------------------
 # Misc Theme Settings
